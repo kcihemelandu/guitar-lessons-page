@@ -4,7 +4,7 @@ This is a simple guitar lessons website created with react. It has good
 transitions and animations. It's just a frontend project that I was inspired to
 make
 
-You can preview it [here](https://officialkingsley.github.io/guitarlessons-page)
+You can preview it [here](https://guitar-lessons-page.vercel.app/)
 
 > **Note:** I have actually ran the build command and I have put the data in a
 > folder called `doc`
